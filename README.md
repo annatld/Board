@@ -1,7 +1,6 @@
 # 📝 Board de Tarefas em Java
 
-Este projeto foi desenvolvido como parte da atividade **"Criando seu Board de Tarefas com Java"**,
-com o objetivo de praticar conceitos fundamentais de **Java** aplicados à construção de um sistema simples de gerenciamento de tarefas.
+Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de **Java** aplicados à construção de um sistema simples de gerenciamento de tarefas.
 
 ---
 
